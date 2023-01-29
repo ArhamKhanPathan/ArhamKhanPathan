@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arham Khan</h1>
 <h3 align="center">A passionate C++ and Python Developer</h3>
-<img widht = "100px"  src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="coding" 'style="position: absolute;"'>
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="coding" 'style="position: absolute;"' >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhamkhanpathan&label=Profile%20views&color=0e75b6&style=flat" alt="arhamkhanpathan" /> </p>
 
 - 🔭 I’m currently working on **Stock Price Prediction**
