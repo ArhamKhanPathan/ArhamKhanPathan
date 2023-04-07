@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **arhmmkhan@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ArhamKhanPathan/ArhamKhanPathan/blob/main/Arham_Resume.pdf](https://github.com/ArhamKhanPathan/ArhamKhanPathan/blob/main/Arham_Resume.pdf)
+- 📄 Know about my experiences [https://github.com/ArhamKhanPathan/resume/blob/main/Arham_Resume_CanvaT.pdf](https://github.com/ArhamKhanPathan/resume/blob/main/Arham_Resume_CanvaT.pdf)
 
 - 🥋 Know something interesting **I am a State Level Taekwondo Player**
 
